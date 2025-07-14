@@ -36,7 +36,7 @@ const HeroContent = () => {
               {' '}
               Zaw Shine Htet{' '}
             </span>
-            +<span className="text-red-600">4</span> years experiences
+            +<span className="text-red-600">5</span> years experiences
           </span>
         </motion.div>
 

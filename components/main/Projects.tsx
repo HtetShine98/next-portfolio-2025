@@ -43,6 +43,14 @@ const Projects = () => {
           title="Shwe Kyar Phyu (Web App)"
           description="The main goal is to make it simpler for shop owners to keep track of their stock and for users to access...."
         />
+        <ProjectCard
+          title="FreshMoe (Multinational Website)"
+          description="FreshMoe is a multilingual portfolio website that showcases fresh local products across supported countries. It automatically adapts content and language based on user location, with manual language switching for a personalized experience. "
+        />
+        <ProjectCard
+          title="FreshMoe (Web App)"
+          description="They support dynamic master data , dynamic data of portfolio's each page and control supported languages and countries . "
+        />
       </div>
     </div>
   )
